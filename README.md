@@ -1,1 +1,1 @@
-# GOMYCODE_DS_Bootcamp
+# GMC - Python checkpoints
